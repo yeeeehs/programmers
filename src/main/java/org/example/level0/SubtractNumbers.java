@@ -1,3 +1,5 @@
+package org.example.level0;
+
 public class SubtractNumbers {
     public static void main(String[] args) {
         /*
