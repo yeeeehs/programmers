@@ -8,6 +8,7 @@ public class TwoNumbersSum {
 
         int num1 = 2;
         int num2 = 3;
+
         System.out.println(solution(num1, num2));
     }
 
