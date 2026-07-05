@@ -22,4 +22,3 @@ public class MultipleOfN {
         }
     }
 }
-//n의 배수
